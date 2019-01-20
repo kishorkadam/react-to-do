@@ -1,0 +1,4 @@
+Steps:
+  1> go to shop
+  2>Select the pizza.
+  3> Order.
